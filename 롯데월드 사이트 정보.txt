@@ -1,0 +1,14 @@
+hide_header 
+배경 색 : #f8f8f8
+
+body 메인 보라색 : #7233e5
+더많은 혜택 보라색 : #5c11e6
+
+어트랙션 포인트 보라색 : #6519ef
+
+폰트 패밀리 :  "NotoSans-Bold", "맑은 고딕", "Malgun Gothic", sans-serif;
+
+모바일 보라색 1 : #5f14e9
+호거 주고 
+
+height값을 주기 
